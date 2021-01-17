@@ -1,6 +1,7 @@
 # Stoploss Checker
 ---
 Stoploss Checker is an app which can store your Share list and shows you is the stoploss is hit or not.
+I made this android app for the Pune based company ABSYS CONSULTANCY SERVICES LLP as a Freelancer.
 
 It takes input in search bar and sealect the Stock of your choice from the Recycleview. it automatically fills the following textinputs which are
   - Stock name 
