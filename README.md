@@ -26,42 +26,42 @@ It takes input in search bar and sealect the Stock of your choice from the Recyc
 ### Presplash Screen:
 
 <p align="center">
-  <img width="300" height="600" src="https://github.com/rushbhpatil/Stoploss_Checker/blob/master/MD%20docs/Presplash%20_Screen.png?raw=true" alt="Sublime's custom image"/>
+  <img width="300" height="600" src="https://github.com/rushbhpatil/Stoploss-Checker/blob/main/Stoploss-Checker%20Media/Presplash%20_Screen.png?raw=true"/>
 </p>
 
 ### Signin Screen:
 
 <p align="center">
-  <img width="300" height="600" src="https://github.com/rushbhpatil/Stoploss_Checker/blob/master/MD%20docs/Signin_Screen.png?raw=true" alt="Sublime's custom image"/>
+  <img width="300" height="600" src="https://github.com/rushbhpatil/Stoploss-Checker/blob/main/Stoploss-Checker%20Media/Signin_Screen.png?raw=true"/>
 </p>
 
 ### Navigation Drawer:
 
 <p align="center">
-  <img width="300" height="600" src="https://github.com/rushbhpatil/Stoploss_Checker/blob/master/MD%20docs/VideoToGif/Nevigation%20draw-1610739517264.gif?raw=true" alt="Sublime's custom image"/>
+  <img width="300" height="600" src="https://github.com/rushbhpatil/Stoploss-Checker/blob/main/Stoploss-Checker%20Media/Nevigation%20draw-1610739517264.gif?raw=true"/>
 </p>
 
 ### Option Screen:
 <p align="center">
-  <img width="300" height=600" src="https://github.com/rushbhpatil/Stoploss_Checker/blob/master/MD%20docs/Option_Screen.png?raw=true" alt="Sublime's custom image"/>
+  <img width="300" height=600" src="https://github.com/rushbhpatil/Stoploss-Checker/blob/main/Stoploss-Checker%20Media/Option_Screen.png?raw=true"/>
 </p>
 
 ### Add Stock Screen:
 
 <p align="center">
-  <img width="300" height=600" src="https://github.com/rushbhpatil/Stoploss_Checker/blob/master/MD%20docs/VideoToGif/Add%20Stock-1610739418035.gif?raw=true" alt="Sublime's custom image"/>
+  <img width="300" height=600" src="https://github.com/rushbhpatil/Stoploss-Checker/blob/main/Stoploss-Checker%20Media/Add%20Stock-1610739418035.gif?raw=true"/>
 </p>
 
 ### Remove Stock Screen:
 
 <p align="center">
-  <img width="300" height="600" src="https://github.com/rushbhpatil/Stoploss_Checker/blob/master/MD%20docs/VideoToGif/Remove%20Stock-1610739244962.gif?raw=true" alt="Sublime's custom image"/>
+  <img width="300" height="600" src="https://github.com/rushbhpatil/Stoploss-Checker/blob/main/Stoploss-Checker%20Media/Remove%20Stock-1610739244962.gif?raw=true"/>
 </p>
 
 ### Check Stoploss Screen:
 
 <p align="center">
-  <img width="300" height="600" src="https://github.com/rushbhpatil/Stoploss_Checker/blob/master/MD%20docs/VideoToGif/Check%20Stoploss-1610739321849.gif?raw=true" alt="Sublime's custom image"/>
+  <img width="300" height="600" src="https://github.com/rushbhpatil/Stoploss-Checker/blob/main/Stoploss-Checker%20Media/Check%20Stoploss-1610739321849.gif?raw=true"/>
 </p>
 
 
